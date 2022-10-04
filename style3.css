@@ -1,0 +1,12 @@
+.box{
+    background-color: #7ce02f;
+    width: 80px;
+    margin: 20px auto;
+    height: 80px;
+   transition : width 2s;
+}
+
+
+.box:hover {
+    width: 200px;
+   }
